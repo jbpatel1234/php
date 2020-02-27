@@ -1,5 +1,5 @@
 <html>
-  <body>Jigs</body>
+  <body>PHP</body>
 </html>
 
 <?php
