@@ -1,5 +1,5 @@
 <html>
-  <body>Test PHP 1</body>
+  <body>Test PHP 2</body>
 </html>
 
 <?php
