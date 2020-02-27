@@ -1,5 +1,5 @@
 <html>
-  <body>Jigs123</body>
+  <body>Jigs</body>
 </html>
 
 <?php
